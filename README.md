@@ -58,3 +58,8 @@ This writes the current directory recursively into a tree object.
 
 This command creates a commit object for a tree with optional parents information (with a `-p` flag).
 
+
+## 3. Licence
+
+This code is distributed under the MIT licence.
+
