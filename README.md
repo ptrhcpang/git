@@ -12,7 +12,7 @@ I describe in the sections below the things that this .go program does do. There
 
 ### 0.2 Git for our purposes
 
-Future work will also expand on this readme document to describe some of the inner workings of how git stores objects (hence a skipped section). For now we consider git to have three types of objects: 
+Future work will also expand on this readme document to describe some of the inner workings of how git stores objects (*hence a skipped section*). For now we consider git to have three types of objects: 
 
 1/ blobs, which are general Zlib-compressed files; 
 
