@@ -1,10 +1,10 @@
-# Simple git client
+# Simple git
 
 ## 0. Introduction
 
 ### 0.1 This project
 
-This is a codecrafters project that implements a small git client in Go.
+This is a codecrafters project that implements git in Go in miniature.
 
 There is currently no staging, so add and commit are the same. It is not yet possible to pull a full repository. These are changes I intend to make. I also intend to break this file up into smaller files thereafter. 
 
